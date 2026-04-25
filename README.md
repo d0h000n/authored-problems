@@ -45,8 +45,9 @@ If you need the **full contest data** (complete problem set, test data, editoria
 | 5 | 수학 선생님의 고민 (Easy) | 🟢 **Warm-up** | E1번 | 차형준 | [BOJ 28237](https://www.acmicpc.net/problem/28237) |
 | 6 | 수학 선생님의 고민 (Hard) | 🟢 **Warm-up** | E2번 | 차형준 | [BOJ 28242](https://www.acmicpc.net/problem/28242) |
 | 7 | S리그 | 🔵 **Easy** | F번 | - | [BOJ 28240](https://www.acmicpc.net/problem/28240) |
-| 8 | 조별 수업 | 🟡 **Medium** | H번 | - | [BOJ 28243](https://www.acmicpc.net/problem/28243) |
-| 9 | 사람이 먼저 되라 | 🔴 **Hard** | I번 | - | [BOJ 28244](https://www.acmicpc.net/problem/28244) |
+| 8 | 교실 불 끄기 | 🟡 **Medium** | H번 | 백진서 | [BOJ 28243](https://www.acmicpc.net/problem/28241) |
+| 9 | 조별 수업 | 🟡 **Medium** | H번 | - | [BOJ 28243](https://www.acmicpc.net/problem/28243) |
+| 10 | 사람이 먼저 되라 | 🔴 **Hard** | I번 | - | [BOJ 28244](https://www.acmicpc.net/problem/28244) |
 
 ### Codemaster 2024 (2nd edition)
 
