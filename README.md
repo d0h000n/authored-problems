@@ -40,7 +40,7 @@ If you need the **full contest data** (complete problem set, test data, editoria
 |---|---|---|---|---|
 | A | 코드마스터 2023 | 🟢 **Warm-up** | 김도훈 | [BOJ 28235](https://www.acmicpc.net/problem/28235) |
 | B | 점심시간 레이스 | 🟢 **Warm-up** | 김예준, 김도훈 | [BOJ 28236](https://www.acmicpc.net/problem/28236) |
-| C | - | - | - | - |
+| C | 정보 선생님의 야망 | 🟢 **Warm-up** | 차형준 | [BOJ 28238](https://www.acmicpc.net/problem/28238) |
 | D1 | 배고파 (Easy) | 🟢 **Warm-up** | 김도훈 | [BOJ 28239](https://www.acmicpc.net/problem/28239) |
 | D2 | 배고파 (Hard) | 🟢 **Warm-up** | 김도훈 | [BOJ 28245](https://www.acmicpc.net/problem/28245) |
 | E1 | 수학 선생님의 고민 (Easy) | 🟢 **Warm-up** | 차형준, 김도훈 | [BOJ 28237](https://www.acmicpc.net/problem/28237) |
@@ -55,15 +55,15 @@ If you need the **full contest data** (complete problem set, test data, editoria
 | # | Title | Difficulty | Authors | Online Judges |
 |---|---|---|---|---|
 | A | 코드마스터 2024 | 🟢 **Warm-up** | 김도훈, 임준세 | [BOJ 32215](https://www.acmicpc.net/problem/32215) |
-| B | 찬물 샤워 | 🟢 **Warm-up** | B번 | 김도훈 | [BOJ 32216](https://www.acmicpc.net/problem/32216) |
-| C | - | - | - | - |
+| B | 찬물 샤워 | 🟢 **Warm-up** | 김도훈 | [BOJ 32216](https://www.acmicpc.net/problem/32216) |
+| C | 광선 다각형 만들기 | - | 김창연 | - |
 | D | 반려동물 준세 | 🟢 **Warm-up** | 김도훈, 임준세 | [BOJ 32218](https://www.acmicpc.net/problem/32218) |
 | E | 코드마스터, 슬라이딩 퍼즐 마스터, 보드게임 마스터 | 🔵 **Easy** | 백진서, 김도훈 | [BOJ 32219](https://www.acmicpc.net/problem/32219) |
-| F1 | 연강은 힘들어(Easy) | 🔵 **Easy** | 차형준, 김도훈, 백진서 | [BOJ 32221](https://www.acmicpc.net/problem/32221) |
-| F2 | 연강은 힘들어(Hard) | 🔵 **Easy** | 차형준, 김도훈, 백진서 | [BOJ 32222](https://www.acmicpc.net/problem/32222) |
-| G | - | - | - | - |
-| H | - | - | - | - |
-| I1 | - | - | - | - |
+| F1 | 연강은 힘들어(Easy) | 🔵 **Easy** | 차형준, 김도훈, 백진서 | [BOJ 32220](https://www.acmicpc.net/problem/32220) |
+| F2 | 연강은 힘들어(Hard) | 🔵 **Easy** | 차형준, 김도훈, 백진서 | [BOJ 32221](https://www.acmicpc.net/problem/32221) |
+| G | 도시농부 | 🟡 **Medium** | 백진서 | [BOJ 32222](https://www.acmicpc.net/problem/32222) |
+| H | 송도고 레일 정비 사업 | 🔴 **Hard** | 백진서 | [BOJ 32223](https://www.acmicpc.net/problem/32223) |
+| I1 | 물탱크 알바 (Easy) | 🔵 **Easy** | 김창연 | [BOJ 32224](https://www.acmicpc.net/problem/32224) |
 | I2 | 물탱크 알바 (Hard) | 🔴 **Hard** | 김창연, 김도훈 | [BOJ 32225](https://www.acmicpc.net/problem/32225) |
 
 > Problems with no co-author listed are solely authored by Dohoon Kim. For credit and reuse, please attribute all listed authors of the problem.
