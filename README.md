@@ -16,7 +16,7 @@ Difficulty levels:
 
 | # | Title | Difficulty | Original Contest | Online Judges |
 |---|---|---|---|---|
-| 1 | 슬라이딩 퍼즐 마스터 | _TBD_ | _TBD_ | [BOJ 27526](https://www.acmicpc.net/problem/27526) |
+| 1 | 슬라이딩 퍼즐 마스터 | _TBD_ | 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter) E번 | [BOJ 27526](https://www.acmicpc.net/problem/27526) |
 | 2 | 코드마스터 2023 | _TBD_ | _TBD_ | [BOJ 28235](https://www.acmicpc.net/problem/28235) |
 | 3 | 점심시간 레이스 | _TBD_ | _TBD_ | [BOJ 28236](https://www.acmicpc.net/problem/28236) |
 | 4 | 수학 선생님의 고민 (Easy) | _TBD_ | _TBD_ | [BOJ 28237](https://www.acmicpc.net/problem/28237) |
