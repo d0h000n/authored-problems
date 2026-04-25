@@ -24,18 +24,18 @@ This repository hosts a collection of competitive programming problems authored 
 
 ## Problem List
 
-| # | Title | Difficulty | Original Contest | Online Judges | Package |
-|---|---|---|---|---|---|
-| 1 | 슬라이딩 퍼즐 마스터 | 🔴 **Hard** | 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter) E번 | [BOJ 27526](https://www.acmicpc.net/problem/27526) | [puzzle](./puzzle) |
-| 2 | Sieve Game | 🔵 **Easy** | - 2023 KAIST 13th ICPC Mock Competition B번 <br> - Petrozavodsk Programming Camp Summer 2024 Day 2: K-ontest B번 | [BOJ 30293](https://www.acmicpc.net/problem/30293) |
-| 3 | 고양이 리그 | 🔵 **Easy** | 2023 제1회 춘배컵 N번 | [BOJ 30415](https://www.acmicpc.net/problem/30415) |
-| 4 | 신촌방위본부: 지하 벙커의 비밀 | 🔴 **Hard** | 2024 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2024 Winter) K번 | [BOJ 31426](https://www.acmicpc.net/problem/31426) |
-| 5 | 지워진 ETT | 🟡 **Medium** | 2024 신촌지역 대학생 프로그래밍 동아리 연합 여름 대회 (SUAPC 2024 Summer) G번 | [BOJ 32164](https://www.acmicpc.net/problem/32164) |
-| 6 | 트리 장인 | 🔵 **Easy** | 2024 한양대학교 · 세종대학교 연합 프로그래밍 대회 (HSPC) Intermediate H번 | [BOJ 32340](https://www.acmicpc.net/problem/32340) | [make-tree](./make-tree) |
-| 7 | Simple Tree Decomposition Problem | 🔴 **Hard** | 2024 KAIST 14th ICPC Mock Competition L번 | [BOJ 32472](https://www.acmicpc.net/problem/32472) |
-| 8 | 수열의 합 | 🔴 **Hard** | 제6회 고려대학교 MatKor Cup: 2025 Winter L번 | [BOJ 33483](https://www.acmicpc.net/problem/33483) |
-| 9 | 월향 방탈출 | 🟡 **Medium** | 월간 향유회 2025. 07. D번 | [BOJ 34102](https://www.acmicpc.net/problem/34102) |
-| 10 | 그래프 리뷰 유튜버 | 🔵 **Easy** | 2025 숭고한 연합 알고리즘 경진대회 Div. 1 A번 | [BOJ 34220](https://www.acmicpc.net/problem/34220) |
+| Title | Difficulty | Original Contest | Online Judges | Package |
+|---|---|---|---|---|
+| 슬라이딩 퍼즐 마스터 | 🔴 **Hard** | 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter) E번 | [BOJ 27526](https://www.acmicpc.net/problem/27526) | [puzzle](./puzzle) |
+| Sieve Game | 🔵 **Easy** | - 2023 KAIST 13th ICPC Mock Competition B번 <br> - Petrozavodsk Programming Camp Summer 2024 Day 2: K-ontest B번 | [BOJ 30293](https://www.acmicpc.net/problem/30293) |
+| 고양이 리그 | 🔵 **Easy** | 2023 제1회 춘배컵 N번 | [BOJ 30415](https://www.acmicpc.net/problem/30415) |
+| 신촌방위본부: 지하 벙커의 비밀 | 🔴 **Hard** | 2024 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2024 Winter) K번 | [BOJ 31426](https://www.acmicpc.net/problem/31426) |
+| 지워진 ETT | 🟡 **Medium** | 2024 신촌지역 대학생 프로그래밍 동아리 연합 여름 대회 (SUAPC 2024 Summer) G번 | [BOJ 32164](https://www.acmicpc.net/problem/32164) |
+| 트리 장인 | 🔵 **Easy** | 2024 한양대학교 · 세종대학교 연합 프로그래밍 대회 (HSPC) Intermediate H번 | [BOJ 32340](https://www.acmicpc.net/problem/32340) | [make-tree](./make-tree) |
+| Simple Tree Decomposition Problem | 🔴 **Hard** | 2024 KAIST 14th ICPC Mock Competition L번 | [BOJ 32472](https://www.acmicpc.net/problem/32472) |
+| 수열의 합 | 🔴 **Hard** | 제6회 고려대학교 MatKor Cup: 2025 Winter L번 | [BOJ 33483](https://www.acmicpc.net/problem/33483) |
+| 월향 방탈출 | 🟡 **Medium** | 월간 향유회 2025. 07. D번 | [BOJ 34102](https://www.acmicpc.net/problem/34102) |
+| 그래프 리뷰 유튜버 | 🔵 **Easy** | 2025 숭고한 연합 알고리즘 경진대회 Div. 1 A번 | [BOJ 34220](https://www.acmicpc.net/problem/34220) |
 
 ## Related Repositories
  
