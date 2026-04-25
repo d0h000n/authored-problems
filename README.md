@@ -18,7 +18,6 @@ This repository hosts a collection of competitive programming problems authored 
 
 ## Difficulty Levels
 
-- 🟢 **Warm-up** — Introductory problems for beginners
 - 🔵 **Easy** — Straightforward problems requiring a single key idea
 - 🟡 **Medium** — Problems requiring solid algorithmic background
 - 🔴 **Hard** — Challenging problems requiring deep thought and synthesis
