@@ -30,7 +30,7 @@ This repository hosts a collection of competitive programming problems authored 
 
 ## Songdo High School Codemaster
 
-**송도고 코드마스터** is a programming contest series for middle and high school students that I organize and direct. Two editions have been held so far: **Codemaster 2023** (1st edition) and **Codemaster 2024** (2nd edition). The tables below list every problem from both contests, with the ones I authored or co-authored linked to their online judge pages.
+**송도고 코드마스터** is a programming contest series for middle and high school students that I organize and direct. Two editions have been held so far: **Codemaster 2023** (1st edition) and **Codemaster 2024** (2nd edition).
  
 If you need the **full contest data** (complete problem set, test data, editorial, etc.) for archival, mirroring, or educational use, please contact me directly.
 
@@ -58,7 +58,7 @@ The second edition expanded its scope **nationwide**, welcoming middle and high 
 |---|---|---|---|---|
 | A | 코드마스터 2024 | 🟢 **Warm-up** | 김도훈, 임준세 | [BOJ 32215](https://www.acmicpc.net/problem/32215) |
 | B | 찬물 샤워 | 🟢 **Warm-up** | 김도훈 | [BOJ 32216](https://www.acmicpc.net/problem/32216) |
-| C | 광선 다각형 만들기 | - | 김창연 | - |
+| C | 광선 다각형 만들기 | 🟢 **Warm-up** | 김창연 | [BOJ 32217](https://www.acmicpc.net/problem/32217) |
 | D | 반려동물 준세 | 🟢 **Warm-up** | 김도훈, 임준세 | [BOJ 32218](https://www.acmicpc.net/problem/32218) |
 | E | 코드마스터, 슬라이딩 퍼즐 마스터, 보드게임 마스터 | 🔵 **Easy** | 백진서, 김도훈 | [BOJ 32219](https://www.acmicpc.net/problem/32219) |
 | F1 | 연강은 힘들어(Easy) | 🔵 **Easy** | 차형준, 김도훈, 백진서 | [BOJ 32220](https://www.acmicpc.net/problem/32220) |
