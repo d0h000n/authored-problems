@@ -38,12 +38,12 @@ If you need the **full contest data** (complete problem set, test data, editoria
 
 | # | Title | Difficulty | Position | Co-author(s) | Online Judges |
 |---|---|---|---|---|---|
-| 1 | 코드마스터 2023 | 🟢 **Warm-up** | A번 | _TBD_ | [BOJ 28235](https://www.acmicpc.net/problem/28235) |
-| 2 | 점심시간 레이스 | 🟢 **Warm-up** | B번 | _TBD_ | [BOJ 28236](https://www.acmicpc.net/problem/28236) |
-| 3 | 배고파 (Easy) | 🟢 **Warm-up** | D1번 | _TBD_ | [BOJ 28239](https://www.acmicpc.net/problem/28239) |
-| 4 | 배고파 (Hard) | 🟢 **Warm-up** | D2번 | _TBD_ | [BOJ 28245](https://www.acmicpc.net/problem/28245) |
-| 5 | 수학 선생님의 고민 (Easy) | 🟢 **Warm-up** | E1번 | _TBD_ | [BOJ 28237](https://www.acmicpc.net/problem/28237) |
-| 6 | 수학 선생님의 고민 (Hard) | 🟢 **Warm-up** | E2번 | _TBD_ | [BOJ 28242](https://www.acmicpc.net/problem/28242) |
+| 1 | 코드마스터 2023 | 🟢 **Warm-up** | A번 | - | [BOJ 28235](https://www.acmicpc.net/problem/28235) |
+| 2 | 점심시간 레이스 | 🟢 **Warm-up** | B번 | 김예준 | [BOJ 28236](https://www.acmicpc.net/problem/28236) |
+| 3 | 배고파 (Easy) | 🟢 **Warm-up** | D1번 | - | [BOJ 28239](https://www.acmicpc.net/problem/28239) |
+| 4 | 배고파 (Hard) | 🟢 **Warm-up** | D2번 | - | [BOJ 28245](https://www.acmicpc.net/problem/28245) |
+| 5 | 수학 선생님의 고민 (Easy) | 🟢 **Warm-up** | E1번 | 차형준 | [BOJ 28237](https://www.acmicpc.net/problem/28237) |
+| 6 | 수학 선생님의 고민 (Hard) | 🟢 **Warm-up** | E2번 | 차형준 | [BOJ 28242](https://www.acmicpc.net/problem/28242) |
 | 7 | S리그 | 🔵 **Easy** | F번 | - | [BOJ 28240](https://www.acmicpc.net/problem/28240) |
 | 8 | 조별 수업 | 🟡 **Medium** | H번 | - | [BOJ 28243](https://www.acmicpc.net/problem/28243) |
 | 9 | 사람이 먼저 되라 | 🔴 **Hard** | I번 | - | [BOJ 28244](https://www.acmicpc.net/problem/28244) |
