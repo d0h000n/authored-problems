@@ -61,8 +61,8 @@ The second edition expanded its scope **nationwide**, welcoming middle and high 
 | C | 광선 다각형 만들기 | 🟢 **Warm-up** | 김창연 | [BOJ 32217](https://www.acmicpc.net/problem/32217) |
 | D | 반려동물 준세 | 🟢 **Warm-up** | 김도훈, 임준세 | [BOJ 32218](https://www.acmicpc.net/problem/32218) |
 | E | 코드마스터, 슬라이딩 퍼즐 마스터, 보드게임 마스터 | 🔵 **Easy** | 백진서, 김도훈 | [BOJ 32219](https://www.acmicpc.net/problem/32219) |
-| F1 | 연강은 힘들어(Easy) | 🔵 **Easy** | 차형준, 김도훈, 백진서 | [BOJ 32220](https://www.acmicpc.net/problem/32220) |
-| F2 | 연강은 힘들어(Hard) | 🔵 **Easy** | 차형준, 김도훈, 백진서 | [BOJ 32221](https://www.acmicpc.net/problem/32221) |
+| F1 | 연강은 힘들어 (Easy) | 🔵 **Easy** | 차형준, 김도훈, 백진서 | [BOJ 32220](https://www.acmicpc.net/problem/32220) |
+| F2 | 연강은 힘들어 (Hard) | 🔵 **Easy** | 차형준, 김도훈, 백진서 | [BOJ 32221](https://www.acmicpc.net/problem/32221) |
 | G | 도시농부 | 🟡 **Medium** | 백진서 | [BOJ 32222](https://www.acmicpc.net/problem/32222) |
 | H | 송도고 레일 정비 사업 | 🔴 **Hard** | 백진서 | [BOJ 32223](https://www.acmicpc.net/problem/32223) |
 | I1 | 물탱크 알바 (Easy) | 🔵 **Easy** | 김창연 | [BOJ 32224](https://www.acmicpc.net/problem/32224) |
