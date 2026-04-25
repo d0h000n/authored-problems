@@ -75,7 +75,7 @@ The second edition expanded its scope **nationwide**, welcoming middle and high 
 A few highlights from the contest series:
  
 - **Changyeon Kim (김창연)** participated as a contestant in the 1st edition. He went on to develop a deep interest in competitive programming, joined the **2nd edition as a problem setter**, and after entering university, placed **2nd in his university's internal contest**. Congratulations!
-- **Jinseo Baek (백진서)** completed the KOI training camp while still in middle school. He contributed to both editions as a problem setter and organizer.
+- **Jinseo Baek (백진서)** completed the **KOI training camp** while still in middle school. He contributed to both editions as a problem setter.
 - Several middle schoolers who first encountered Codemaster through its **BOJ Open Contest** mirror in the 1st or 2nd edition went on to enroll at Songdo High School, where they continue to study competitive programming actively.
 
 ## Usage Policy
