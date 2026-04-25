@@ -44,7 +44,7 @@ This repository hosts a collection of competitive programming problems authored 
 
 ## Related Repositories
  
-Problems I authored or co-authored for the **Songdo High School Codemaster** contest series — a programming contest for middle and high school students that I organize and direct — are archived separately at [**codemaster-contests**](https://github.com/dohoonkim/codemaster-contests).
+Problems I authored or co-authored for the **Songdo High School Codemaster** contest series — a programming contest for middle and high school students that I organize and direct — are archived separately at [**codemaster-contests**](https://github.com/d0h000n/codemaster-contests).
 ## Usage Policy
 
 These problems are made publicly available for educational use, practice, and reuse on online judges, **subject to the following conditions**:
