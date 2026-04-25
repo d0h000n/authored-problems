@@ -1,0 +1,1 @@
+{"id":"f8e7f9e091df094ddf5a7639db06ca48","index":1,"scriptPattern":"gen-rnd_forest -c\u003d[2..7] -k\u003d3000","inputFile":"stdin","outputFile":"stdout","memoryLimit":1024,"timeLimit":1000,"totalTimeLimit":120000,"solutionNames":["hansoyo_ac.cpp","smk_wa.py","mcs.cpp","hyun_sol.cpp"],"description":"","solutionNamesUid":"6418e3d6b76c55600898d71cd345f9c5","ignoreValidators":false}

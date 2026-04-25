@@ -1,0 +1,1 @@
+{"id":"4afd63211b32cc2b1bd1915c38273973","index":4,"scriptPattern":"gen-rnd_cycle_contained_graph -n\u003d100000 -m\u003d1000 -k\u003d3000","inputFile":"stdin","outputFile":"stdout","memoryLimit":1024,"timeLimit":5000,"totalTimeLimit":120000,"solutionNames":["mcs.cpp","smk_tle.py"],"description":"","solutionNamesUid":"","ignoreValidators":false}

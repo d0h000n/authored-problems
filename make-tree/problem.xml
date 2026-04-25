@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<problem revision="53" short-name="make-tree" url="https://polygon.codeforces.com/p1KYJ4Q/dohoon/make-tree">
+    <names>
+        <name language="english" value="Tree Artisan"/>
+        <name language="korean" value="트리 장인"/>
+    </names>
+    <statements latex-pdf-mode="obsolete">
+        <statement charset="UTF-8" language="english" mathjax="true" path="statements/english/problem.tex" type="application/x-tex"/>
+        <statement charset="UTF-8" language="korean" mathjax="true" path="statements/korean/problem.tex" type="application/x-tex"/>
+        <statement charset="UTF-8" language="english" mathjax="true" path="statements/.html/english/problem.html" type="text/html"/>
+        <statement charset="UTF-8" language="korean" mathjax="true" path="statements/.html/korean/problem.html" type="text/html"/>
+    </statements>
+    <judging cpu-name="Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz" cpu-speed="3600" input-file="" output-file="" run-count="1">
+        <testset name="tests">
+            <time-limit>1000</time-limit>
+            <memory-limit>1073741824</memory-limit>
+            <test-count>80</test-count>
+            <input-path-pattern>tests/%02d</input-path-pattern>
+            <answer-path-pattern>tests/%02d.a</answer-path-pattern>
+            <tests>
+                <test method="manual" sample="true"/>
+                <test description="(1)-(2)-(3) (4) =&gt; ans:3&gt;2 =&gt; -1" method="manual" sample="true"/>
+                <test method="manual"/>
+                <test cmd="gen-rnd_forest -n=100000 -c=1 -k=1" method="generated"/>
+                <test cmd="gen-rnd_forest -n=100000 -c=1 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=3000 -c=1 -k=2999" method="generated"/>
+                <test cmd="gen-rnd_forest -n=3000 -c=1 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=100 -c=2 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=115 -c=2 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=8 -c=2 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=9 -c=2 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=10 -c=2 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=11 -c=2 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=12 -c=2 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=14 -c=2 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=16 -c=2 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=18 -c=2 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=20 -c=2 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=22 -c=2 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=8 -c=3 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=9 -c=3 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=10 -c=3 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=11 -c=3 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=12 -c=3 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=14 -c=3 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=16 -c=3 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=18 -c=3 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=20 -c=3 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=22 -c=3 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=8 -c=4 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=9 -c=4 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=10 -c=4 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=11 -c=4 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=12 -c=4 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=14 -c=4 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=16 -c=4 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=18 -c=4 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=20 -c=4 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=22 -c=4 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=8 -c=5 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=9 -c=5 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=10 -c=5 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=11 -c=5 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=12 -c=5 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=14 -c=5 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=16 -c=5 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=18 -c=5 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=20 -c=5 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=22 -c=5 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=8 -c=6 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=9 -c=6 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=10 -c=6 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=11 -c=6 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=12 -c=6 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=14 -c=6 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=16 -c=6 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=18 -c=6 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=20 -c=6 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=22 -c=6 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=8 -c=7 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=9 -c=7 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=10 -c=7 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=11 -c=7 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=12 -c=7 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=14 -c=7 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=16 -c=7 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=18 -c=7 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=20 -c=7 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_forest -n=22 -c=7 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_cycle_contained_graph -n=100000 -m=1000 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_cycle_contained_graph -n=100000 -m=200000 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_cycle_contained_graph -n=100000 -m=50000 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_cycle_contained_graph -n=30 -m=20 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_cycle_contained_graph -n=30 -m=50 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_cycle_contained_graph -n=30 -m=100 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_cycle_contained_graph -n=1000 -m=200000 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_cycle_contained_graph -n=100000 -m=300 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_cycle_contained_graph -n=100000 -m=100 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_cycle_contained_graph -n=100000 -m=50 -k=3000" method="generated"/>
+                <test cmd="gen-rnd_cycle_contained_graph -n=700 -m=200000 -k=3000" method="generated"/>
+            </tests>
+        </testset>
+    </judging>
+    <files>
+        <resources>
+            <file path="files/olymp.sty"/>
+            <file path="files/problem.tex"/>
+            <file path="files/statements.ftl"/>
+            <file path="files/testlib.h" type="h.g++"/>
+        </resources>
+        <executables>
+            <executable>
+                <source path="files/gen-rnd_cycle_contained_graph.cpp" type="cpp.gcc14-64-msys2-g++23"/>
+            </executable>
+            <executable>
+                <source path="files/gen-rnd_forest.cpp" type="cpp.gcc13-64-winlibs-g++20"/>
+            </executable>
+            <executable>
+                <source path="files/val.cpp" type="cpp.gcc13-64-winlibs-g++20"/>
+            </executable>
+        </executables>
+    </files>
+    <assets>
+        <checker name="std::ncmp.cpp" type="testlib">
+            <source path="files/check.cpp" type="cpp.g++17"/>
+            <copy path="check.cpp"/>
+            <testset>
+                <test-count>3</test-count>
+                <input-path-pattern>files/tests/checker-tests/%02d</input-path-pattern>
+                <output-path-pattern>files/tests/checker-tests/%02d.o</output-path-pattern>
+                <answer-path-pattern>files/tests/checker-tests/%02d.a</answer-path-pattern>
+                <tests>
+                    <test verdict="ok"/>
+                    <test verdict="ok"/>
+                    <test verdict="wrong-answer"/>
+                </tests>
+            </testset>
+        </checker>
+        <validators>
+            <validator>
+                <source path="files/val.cpp" type="cpp.gcc13-64-winlibs-g++20"/>
+                <testset>
+                    <test-count>9</test-count>
+                    <input-path-pattern>files/tests/validator-tests/%02d</input-path-pattern>
+                    <tests>
+                        <test verdict="invalid"/>
+                        <test verdict="valid"/>
+                        <test verdict="invalid"/>
+                        <test verdict="invalid"/>
+                        <test verdict="invalid"/>
+                        <test verdict="invalid"/>
+                        <test verdict="invalid"/>
+                        <test verdict="invalid"/>
+                        <test verdict="invalid"/>
+                    </tests>
+                </testset>
+            </validator>
+        </validators>
+        <solutions>
+            <solution tag="wrong-answer">
+                <source path="solutions/LuckyVickyAlgorithm.cpp" type="cpp.gcc14-64-msys2-g++23"/>
+            </solution>
+            <solution tag="wrong-answer">
+                <source path="solutions/OasisReunion.cpp" type="cpp.gcc14-64-msys2-g++23"/>
+            </solution>
+            <solution tag="wrong-answer">
+                <source path="solutions/choisang0826.cpp" type="cpp.gcc14-64-msys2-g++23"/>
+            </solution>
+            <solution tag="wrong-answer">
+                <source path="solutions/dabbler1.cpp" type="python.pypy3-64"/>
+            </solution>
+            <solution tag="accepted">
+                <source path="solutions/hansoyo_ac.cpp" type="cpp.g++17"/>
+            </solution>
+            <solution tag="wrong-answer">
+                <source path="solutions/hansoyo_ac2.cpp" type="cpp.g++17"/>
+            </solution>
+            <solution tag="accepted">
+                <source path="solutions/hansoyo_wa.cpp" type="cpp.g++17"/>
+            </solution>
+            <solution tag="accepted">
+                <source path="solutions/hyperbolic.cpp" type="cpp.gcc14-64-msys2-g++23"/>
+            </solution>
+            <solution tag="accepted">
+                <source path="solutions/hyun_sol.cpp" type="cpp.gcc14-64-msys2-g++23"/>
+            </solution>
+            <solution tag="accepted">
+                <source path="solutions/infikei_sol1.cpp" type="cpp.g++17"/>
+            </solution>
+            <solution tag="accepted">
+                <source path="solutions/infikei_sol1_j.java" type="java8"/>
+            </solution>
+            <solution tag="wrong-answer">
+                <source path="solutions/infikei_wa1.cpp" type="cpp.g++17"/>
+            </solution>
+            <solution tag="accepted">
+                <source path="solutions/infikei_wa2.cpp" type="cpp.g++17"/>
+            </solution>
+            <solution tag="main">
+                <source path="solutions/mcs.cpp" type="cpp.gcc13-64-winlibs-g++20"/>
+            </solution>
+            <solution tag="wrong-answer">
+                <source path="solutions/p_ce1052.cpp" type="cpp.gcc14-64-msys2-g++23"/>
+            </solution>
+            <solution tag="accepted">
+                <source path="solutions/smk_ac.py" type="python.3"/>
+            </solution>
+            <solution tag="time-limit-exceeded-or-accepted">
+                <source path="solutions/smk_tle.py" type="python.pypy3-64"/>
+            </solution>
+            <solution tag="wrong-answer">
+                <source path="solutions/smk_wa.py" type="python.pypy3-64"/>
+            </solution>
+            <solution note="ychangseok" tag="accepted">
+                <source path="solutions/ychangseok.cpp" type="cpp.gcc14-64-msys2-g++23"/>
+            </solution>
+        </solutions>
+    </assets>
+    <properties>
+        <property name="tests-wellformed" value="true"/>
+    </properties>
+    <stresses>
+        <stress-count>4</stress-count>
+        <stress-path-pattern>stresses/%03d</stress-path-pattern>
+        <list>
+            <stress index="4" path="stresses/004"/>
+            <stress index="3" path="stresses/003"/>
+            <stress index="2" path="stresses/002"/>
+            <stress index="1" path="stresses/001"/>
+        </list>
+    </stresses>
+    <tags>
+        <tag value="sdf"/>
+    </tags>
+</problem>

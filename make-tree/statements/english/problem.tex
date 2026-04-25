@@ -1,0 +1,27 @@
+\begin{problem}{Tree Artisan}{standard input}{standard output}{1 second}{1024 megabytes}
+
+Sejong is a famous tree artisan from Hanyang. Bring him any graph, and he will transform it into a beautiful tree\footnote{A tree is an undirected connected graph with $N$ vertices and $N-1$ edges.}!
+
+You are given a simple graph\footnote{A simple graph is a graph in which every edge connects two distinct vertices, and between any two vertices $u$ and $v$, there is at most one edge.} with $N$ vertices and $M$ edges.
+
+Sejong will add zero or more new edges between vertices $1, 2, \ldots, N$ to turn the graph into a tree.
+
+Before starting his work, Sejong wants to estimate how many ways there are to turn the graph into a tree under the above conditions. Help him determine whether the number of such ways exceeds $K$, and if it does not, find the exact count! Two methods are considered distinct if and only if the sets of added edges differ. All edges are undirected.
+
+\InputFile
+The first line contains three integers $N$, $M$, and $K$, separated by spaces. $(2 \le N \le 100\, 000;$ $1 \le M \le 200\, 000;$ $1 \le K \le 3\, 000)$
+
+The next $M$ lines each contain two integers $u_i$ and $v_i$, the endpoints of the $i$-th edge, separated by a space. $(1 \le u_i \lt v_i \le N;$ $(u_i, v_i) \ne (u_j, v_j) )$
+
+\OutputFile
+If the number of ways to turn the graph into a tree exceeds $K$, print $-1$. Otherwise, print the exact count.
+
+\Examples
+
+\begin{example}
+\exmpfile{example.01}{example.01.a}%
+\exmpfile{example.02}{example.02.a}%
+\end{example}
+
+\end{problem}
+
