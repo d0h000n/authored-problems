@@ -63,6 +63,7 @@ Bug reports, typo fixes, and suggestions are welcome — please open an issue or
 
 **Dohoon Kim (김도훈)**
 
-- BOJ: [_TBD_]
-- Codeforces: [_TBD_]
-- Email / Contact: [_TBD_]
+- BOJ: [dohoon](https://acmicpc.net/profile/dohoon)
+- Codeforces: [go_onin](https://codeforces.com/profile/go_onin)
+
+For any inquiries, please [open an issue](../../issues).
