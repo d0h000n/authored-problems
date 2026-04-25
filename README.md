@@ -36,34 +36,35 @@ If you need the **full contest data** (complete problem set, test data, editoria
 
 ### Codemaster 2023 (1st edition)
 
-| # | Title | Difficulty | Co-author(s) | Online Judges |
-|---|---|---|---|---|---|
-| A | 코드마스터 2023 | 🟢 **Warm-up** | - | [BOJ 28235](https://www.acmicpc.net/problem/28235) |
-| B | 점심시간 레이스 | 🟢 **Warm-up** | 김예준 | [BOJ 28236](https://www.acmicpc.net/problem/28236) |
-| C | - | - | - | - | - |
-| D1 | 배고파 (Easy) | 🟢 **Warm-up** | - | [BOJ 28239](https://www.acmicpc.net/problem/28239) |
-| D2 | 배고파 (Hard) | 🟢 **Warm-up** | - | [BOJ 28245](https://www.acmicpc.net/problem/28245) |
-| E1 | 수학 선생님의 고민 (Easy) | 🟢 **Warm-up** | 차형준 | [BOJ 28237](https://www.acmicpc.net/problem/28237) |
-| E2 | 수학 선생님의 고민 (Hard) | 🟢 **Warm-up** | 차형준 | [BOJ 28242](https://www.acmicpc.net/problem/28242) |
-| F | S리그 | 🔵 **Easy** | - | [BOJ 28240](https://www.acmicpc.net/problem/28240) |
-| G | 교실 불 끄기 | 🟡 **Medium** | 백진서 | [BOJ 28243](https://www.acmicpc.net/problem/28241) |
-| H | 조별 수업 | 🟡 **Medium** | - | [BOJ 28243](https://www.acmicpc.net/problem/28243) |
-| I | 사람이 먼저 되라 | 🔴 **Hard** | - | [BOJ 28244](https://www.acmicpc.net/problem/28244) |
+| # | Title | Difficulty | Authors | Online Judges |
+|---|---|---|---|---|
+| A | 코드마스터 2023 | 🟢 **Warm-up** | 김도훈 | [BOJ 28235](https://www.acmicpc.net/problem/28235) |
+| B | 점심시간 레이스 | 🟢 **Warm-up** | 김예준, 김도훈 | [BOJ 28236](https://www.acmicpc.net/problem/28236) |
+| C | - | - | - | - |
+| D1 | 배고파 (Easy) | 🟢 **Warm-up** | 김도훈 | [BOJ 28239](https://www.acmicpc.net/problem/28239) |
+| D2 | 배고파 (Hard) | 🟢 **Warm-up** | 김도훈 | [BOJ 28245](https://www.acmicpc.net/problem/28245) |
+| E1 | 수학 선생님의 고민 (Easy) | 🟢 **Warm-up** | 차형준, 김도훈 | [BOJ 28237](https://www.acmicpc.net/problem/28237) |
+| E2 | 수학 선생님의 고민 (Hard) | 🟢 **Warm-up** | 차형준, 김도훈 | [BOJ 28242](https://www.acmicpc.net/problem/28242) |
+| F | S리그 | 🔵 **Easy** | 김도훈 | [BOJ 28240](https://www.acmicpc.net/problem/28240) |
+| G | 교실 불 끄기 | 🟡 **Medium** | 백진서, 김도훈 | [BOJ 28243](https://www.acmicpc.net/problem/28241) |
+| H | 조별 수업 | 🟡 **Medium** | 김도훈 | [BOJ 28241](https://www.acmicpc.net/problem/28243) |
+| I | 사람이 먼저 되라 | 🔴 **Hard** | 김도훈 | [BOJ 28244](https://www.acmicpc.net/problem/28244) |
 
 ### Codemaster 2024 (2nd edition)
 
-| # | Title | Difficulty | Co-author(s) | Online Judges |
-|---|---|---|---|---|---|
-| A | 코드마스터 2024 | 🟢 **Warm-up** | 임준세 | [BOJ 32215](https://www.acmicpc.net/problem/32215) |
-| B | 찬물 샤워 | 🟢 **Warm-up** | B번 | - | [BOJ 32216](https://www.acmicpc.net/problem/32216) |
+| # | Title | Difficulty | Authors | Online Judges |
+|---|---|---|---|---|
+| A | 코드마스터 2024 | 🟢 **Warm-up** | 김도훈, 임준세 | [BOJ 32215](https://www.acmicpc.net/problem/32215) |
+| B | 찬물 샤워 | 🟢 **Warm-up** | B번 | 김도훈 | [BOJ 32216](https://www.acmicpc.net/problem/32216) |
 | C | - | - | - | - |
-| D | - | - | - | - |
-| E | 코드마스터, 슬라이딩 퍼즐 마스터, 보드게임 마스터 | 🔵 **Easy** | 백진서 | [BOJ 32219](https://www.acmicpc.net/problem/32219) |
-| F | - | - | - | - |
+| D | 반려동물 준세 | 🟢 **Warm-up** | 김도훈, 임준세 | [BOJ 32218](https://www.acmicpc.net/problem/32218) |
+| E | 코드마스터, 슬라이딩 퍼즐 마스터, 보드게임 마스터 | 🔵 **Easy** | 백진서, 김도훈 | [BOJ 32219](https://www.acmicpc.net/problem/32219) |
+| F1 | 연강은 힘들어(Easy) | 🔵 **Easy** | 차형준, 김도훈, 백진서 | [BOJ 32221](https://www.acmicpc.net/problem/32221) |
+| F2 | 연강은 힘들어(Hard) | 🔵 **Easy** | 차형준, 김도훈, 백진서 | [BOJ 32222](https://www.acmicpc.net/problem/32222) |
 | G | - | - | - | - |
 | H | - | - | - | - |
 | I1 | - | - | - | - |
-| I2 | 물탱크 알바 (Hard) | 🔴 **Hard** | 김창연 | [BOJ 32225](https://www.acmicpc.net/problem/32225) |
+| I2 | 물탱크 알바 (Hard) | 🔴 **Hard** | 김창연, 김도훈 | [BOJ 32225](https://www.acmicpc.net/problem/32225) |
 
 > Problems with no co-author listed are solely authored by Dohoon Kim. For credit and reuse, please attribute all listed authors of the problem.
 
