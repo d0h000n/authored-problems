@@ -68,8 +68,6 @@ The second edition expanded its scope **nationwide**, welcoming middle and high 
 | I1 | 물탱크 알바 (Easy) | 🔵 **Easy** | 김창연 | [BOJ 32224](https://www.acmicpc.net/problem/32224) |
 | I2 | 물탱크 알바 (Hard) | 🔴 **Hard** | 김창연, 김도훈 | [BOJ 32225](https://www.acmicpc.net/problem/32225) |
 
-> Problems with no co-author listed are solely authored by Dohoon Kim. For credit and reuse, please attribute all listed authors of the problem.
-
 ### People & Stories
  
 A few highlights from the contest series:
