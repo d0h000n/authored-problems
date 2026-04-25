@@ -56,13 +56,13 @@ If you need the **full contest data** (complete problem set, test data, editoria
 |---|---|---|---|---|---|
 | A | 코드마스터 2024 | 🟢 **Warm-up** | 임준세 | [BOJ 32215](https://www.acmicpc.net/problem/32215) |
 | B | 찬물 샤워 | 🟢 **Warm-up** | B번 | - | [BOJ 32216](https://www.acmicpc.net/problem/32216) |
-| C | - | - | - | - | - |
-| D | - | - | - | - | - |
+| C | - | - | - | - |
+| D | - | - | - | - |
 | E | 코드마스터, 슬라이딩 퍼즐 마스터, 보드게임 마스터 | 🔵 **Easy** | 백진서 | [BOJ 32219](https://www.acmicpc.net/problem/32219) |
-| F | - | - | - | - | - |
-| G | - | - | - | - | - |
-| H | - | - | - | - | - |
-| I1 | - | - | - | - | - |
+| F | - | - | - | - |
+| G | - | - | - | - |
+| H | - | - | - | - |
+| I1 | - | - | - | - |
 | I2 | 물탱크 알바 (Hard) | 🔴 **Hard** | 김창연 | [BOJ 32225](https://www.acmicpc.net/problem/32225) |
 
 > Problems with no co-author listed are solely authored by Dohoon Kim. For credit and reuse, please attribute all listed authors of the problem.
