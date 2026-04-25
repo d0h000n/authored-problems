@@ -24,9 +24,9 @@ This repository hosts a collection of competitive programming problems authored 
 
 ## Problem List
 
-| # | Title | Difficulty | Original Contest | Online Judges |
-|---|---|---|---|---|
-| 1 | 슬라이딩 퍼즐 마스터 | 🔴 **Hard** | 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter) E번 | [BOJ 27526](https://www.acmicpc.net/problem/27526) |
+| # | Title | Difficulty | Original Contest | Online Judges | Package |
+|---|---|---|---|---|---|
+| 1 | 슬라이딩 퍼즐 마스터 | 🔴 **Hard** | 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter) E번 | [BOJ 27526](https://www.acmicpc.net/problem/27526) | [puzzle](./puzzle) |
 | 2 | Sieve Game | 🔵 **Easy** | - 2023 KAIST 13th ICPC Mock Competition B번 <br> - Petrozavodsk Programming Camp Summer 2024 Day 2: K-ontest B번 | [BOJ 30293](https://www.acmicpc.net/problem/30293) |
 | 3 | 고양이 리그 | 🔵 **Easy** | 2023 제1회 춘배컵 N번 | [BOJ 30415](https://www.acmicpc.net/problem/30415) |
 | 4 | 신촌방위본부: 지하 벙커의 비밀 | 🔴 **Hard** | 2024 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2024 Winter) K번 | [BOJ 31426](https://www.acmicpc.net/problem/31426) |
