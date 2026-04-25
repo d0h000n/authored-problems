@@ -22,7 +22,7 @@ This repository hosts a collection of competitive programming problems authored 
 | 3 | 고양이 리그 | 🔵 **Easy** | 2023 제1회 춘배컵 N번 | [BOJ 30415](https://www.acmicpc.net/problem/30415) |
 | 4 | 신촌방위본부: 지하 벙커의 비밀 | 🔴 **Hard** | 2024 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2024 Winter) K번 | [BOJ 31426](https://www.acmicpc.net/problem/31426) |
 | 5 | 지워진 ETT | 🟡 **Medium** | 2024 신촌지역 대학생 프로그래밍 동아리 연합 여름 대회 (SUAPC 2024 Summer) G번 | [BOJ 32164](https://www.acmicpc.net/problem/32164) |
-| 6 | 트리 장인 | 🔵 **Easy** | 2024년 한양대학교 · 세종대학교 연합 프로그래밍 대회 (HSPC) Intermediate H번 | [BOJ 32340](https://www.acmicpc.net/problem/32340) |
+| 6 | 트리 장인 | 🔵 **Easy** | 2024 한양대학교 · 세종대학교 연합 프로그래밍 대회 (HSPC) Intermediate H번 | [BOJ 32340](https://www.acmicpc.net/problem/32340) |
 | 7 | Simple Tree Decomposition Problem | 🔴 **Hard** | 2024 KAIST 14th ICPC Mock Competition L번 | [BOJ 32472](https://www.acmicpc.net/problem/32472) |
 | 8 | 수열의 합 | 🔴 **Hard** | 제6회 고려대학교 MatKor Cup: 2025 Winter L번 | [BOJ 33483](https://www.acmicpc.net/problem/33483) |
 | 9 | 월향 방탈출 | 🟡 **Medium** | 월간 향유회 2025. 07. D번 | [BOJ 34102](https://www.acmicpc.net/problem/34102) |
@@ -30,11 +30,12 @@ This repository hosts a collection of competitive programming problems authored 
 
 ## Songdo High School Codemaster
 
-**송도고 코드마스터** is a youth programming contest series that I organize and direct. Two editions have been held so far: **Codemaster 2023** (1st edition) and **Codemaster 2024** (2nd edition). The problems below are the ones I personally authored for these contests.
-
+**송도고 코드마스터** is a programming contest series for middle and high school students that I organize and direct. Two editions have been held so far: **Codemaster 2023** (1st edition) and **Codemaster 2024** (2nd edition). The tables below list every problem from both contests, with the ones I authored or co-authored linked to their online judge pages.
+ 
 If you need the **full contest data** (complete problem set, test data, editorial, etc.) for archival, mirroring, or educational use, please contact me directly.
 
 ### Codemaster 2023 (1st edition)
+The inaugural edition of Codemaster, organized and directed by me during my senior year of high school. The contest targeted middle and high school students in the **Incheon region**, with regional awards open to Incheon students. Students from outside the region were welcome to participate and were eligible for special awards.
 
 | # | Title | Difficulty | Authors | Online Judges |
 |---|---|---|---|---|
@@ -51,6 +52,7 @@ If you need the **full contest data** (complete problem set, test data, editoria
 | I | 사람이 먼저 되라 | 🔴 **Hard** | 김도훈 | [BOJ 28244](https://www.acmicpc.net/problem/28244) |
 
 ### Codemaster 2024 (2nd edition)
+The second edition expanded its scope **nationwide**, welcoming middle and high school students from across the country. With a larger participant pool, the contest also featured small side events, additional sponsorship support, and a more substantial awards lineup than its predecessor.
 
 | # | Title | Difficulty | Authors | Online Judges |
 |---|---|---|---|---|
@@ -67,6 +69,14 @@ If you need the **full contest data** (complete problem set, test data, editoria
 | I2 | 물탱크 알바 (Hard) | 🔴 **Hard** | 김창연, 김도훈 | [BOJ 32225](https://www.acmicpc.net/problem/32225) |
 
 > Problems with no co-author listed are solely authored by Dohoon Kim. For credit and reuse, please attribute all listed authors of the problem.
+
+### People & Stories
+ 
+A few highlights from the contest series:
+ 
+- **Changyeon Kim (김창연)** participated as a contestant in the 1st edition. He went on to develop a deep interest in competitive programming, joined the **2nd edition as a problem setter**, and after entering university, placed **2nd in his university's internal contest**. Congratulations!
+- **Jinseo Baek (백진서)** completed the KOI training camp while still in middle school. He contributed to both editions as a problem setter and organizer.
+- Several middle schoolers who first encountered Codemaster through its **BOJ Open Contest** mirror in the 1st or 2nd edition went on to enroll at Songdo High School, where they continue to study competitive programming actively.
 
 ## Usage Policy
 
