@@ -2,6 +2,20 @@
 
 Algorithm problems I've authored, packaged with Polygon for use across online judges.
 
+## Table of Contents
+ 
+- [About](#about)
+- [Difficulty Levels](#difficulty-levels)
+- [Problem List](#problem-list)
+- [Songdo High School Codemaster](#songdo-high-school-codemaster)
+  - [Codemaster 2023 (1st edition)](#codemaster-2023-1st-edition)
+  - [Codemaster 2024 (2nd edition)](#codemaster-2024-2nd-edition)
+  - [People & Stories](#people--stories)
+- [Usage Policy](#usage-policy)
+- [License](#license)
+- [Contributing](#contributing)
+- [Author](#author)
+
 ## About
 
 This repository hosts a collection of competitive programming problems authored by **Dohoon Kim (김도훈)**. Each problem is provided as a [Polygon](https://polygon.codeforces.com/) package, which includes statements, test data, validators, checkers, and reference solutions — ready to be imported into Polygon-compatible online judges (Codeforces Gym, QOJ, Universal Cup, DOMjudge, etc.).
